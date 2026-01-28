@@ -1,13 +1,12 @@
 # 👋 Olá, eu sou o Gustavo Rodrigues
 
-Sou profissional de **Suporte de TI** e **Desenvolvimento Web**, focado em criar soluções práticas, organizadas e eficientes. Tenho experiência com atendimento técnico, sempre buscando melhorar processos com tecnologia.
+Sou desenvolvedor em constante evolução, apaixonado por tecnologia, inovação e resolução de problemas. Tenho experiência em desenvolvimento web, lógica de programação e suporte em TI, sempre focado em aprender, evoluir e entregar soluções eficientes.
 
 ---
 
 ## 🚀 Sobre mim
 - 💻 Suporte Técnico (Help Desk) presencial e remoto
-- 🛠️ Abertura, registro e acompanhamento de chamados
-- 🌐 Desenvolvimento de sistemas web para uso interno
+- 🌐 Desenvolvimento de sistemas web
 - 📊 Relatórios, planilhas e organização de dados
 - 🎯 Aprendizado contínuo e boas práticas
 
@@ -42,6 +41,7 @@ Sou profissional de **Suporte de TI** e **Desenvolvimento Web**, focado em criar
 - Dados
 - Mainframe
 - Versionamento e organização com Git
+- UX E UI
 
 ---
 
